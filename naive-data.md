@@ -1,6 +1,6 @@
 # Naive Realism and Sense datum Theory
 
-What is the disagreement between the Naive Realist and the Sense Datum Theorist? Instead of assuming this disagreement is about the nature of the objects of perception, as is commonly proposed, I suggest that we should locate this disagreement purely at the level of a proper characterisation of the phenomenology of perception. The Naive Realist and Sense Datum Theorist disagree about what we should say if all we do is take our perceptual experience at face value.
+What is the disagreement between the Naive Realist and the Sense Datum Theorist? Instead of assuming this disagreement is about the nature of the objects of perception, as is commonly proposed, I suggest that we should locate this disagreement purely at the level of a proper characterisation of what pereiving is like. A basic methodology in the philosophy of perception tries to distil facts about the nature of perceptual experience from facts about what it is like to perceive. If perceptual experience is what it seems to us to be, then we may take such facts about what it is like to perceive at face value. My suggestion is that the Naive Realist and Sense Datum Theorist disagree about what facts we may take at face value, when we may take what it is like to perceive at face value.
 
 Both the Naive Realist and the Sense Datum Theorist assume that there is positive introspective support for the view that perception is a conscious presentation of objects that are distinct from and independent of the perception itself.
 
